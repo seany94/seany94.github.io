@@ -7,7 +7,7 @@
 
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -988,7 +988,7 @@ body.offcanvas {
       .project .desc h3 a {
         color: #fff; }
     .project .desc span {
-      display: block;
+      display: inline-block;
       color: rgba(255, 255, 255, 0.7);
       font-size: 13px;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
